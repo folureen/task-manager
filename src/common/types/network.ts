@@ -1,0 +1,1 @@
+export type TNetworkState = 'PENDING' | 'RESOLVED' | 'REJECTED';
